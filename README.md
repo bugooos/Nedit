@@ -17,7 +17,7 @@ Prerequisites
 Installation:
 - Clone the Repository: Open a terminal or command prompt. Clone the repository using Git
 ```
-git clone https://github.com/bugooos/nedit.git
+git clone https://github.com/bugooos/Nedit.git
 ```
 - Navigate to the project directory
 ```
