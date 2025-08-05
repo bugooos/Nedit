@@ -34,4 +34,4 @@ python nedit.py OR python3 nedit.py
 ```
 Support
 
-For support, You can buy me a coffie : https://buymeacoffee.com/nexu or email drdeathultimate@gmail.com or join our Youtube channel. Youtube: https://www.youtube.com/@bugooos
+For support, join our Youtube channel. Youtube: https://www.youtube.com/@bugooos
